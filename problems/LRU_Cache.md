@@ -40,7 +40,7 @@ Constraints:
 At most 2 * 105 calls will be made to get and put.
 
 
-```
+```python
 class LRUCache(object):
 
     def __init__(self, capacity):
